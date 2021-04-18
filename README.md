@@ -6,24 +6,36 @@
 
 ### Stock Performance
 
-- 2017 reusults
-  - 2017 reults text
-  - 2017 results image
+2017 reusults
+
+- 2017 reults text
+- 2017 results image
 ![placeholder-image](resources/resources-image-placeholder1.png)
 
-- 2018 results
-  - 2018 reults text
-  - 2018 results image
+2018 results
 
-- results summation
+- 2018 reults text
+- 2018 results image
+
+results summation
 
 ### Exection Times
 
-- Original script execution time: results here, screenshot below
-![original-exexcution-time-image](resources/resources-image-placeholder1.png)
+The execution time results below highlight the superior execution time achieved by refactoring the AllStockAnalysis code.
 
-- Refactored script execution time: results here, screenshot below
-![refactored-exexcution-time-image](resources/resources-image-placeholder2.png)
+Original script execution times:
+
+- 2017 Analysis: the code ran in .296875 seconds
+![2017-original-runtime](resources/module-2017-runtime.png)
+- 2018 Analysis: the code ran in .2841797 seconds
+![2018-original-runtime](resources/module-2018-runtime-scaled_down.png)
+
+Refactored script execution times:
+
+- 2017 Analysis: the code ran in .xxxxxx seconds
+![2017-refactored-runtime](resources/resources-image-placeholder1.png)
+- 2018 Analysis: the code ran in .xxxxxx seconds
+![2018-refactored-runtime](resources/resources-image-placeholder1.png)
 
 ## Summary: In a summary statement, address the following questions
 
