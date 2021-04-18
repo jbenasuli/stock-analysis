@@ -9,7 +9,7 @@
 - 2017 reusults
   - 2017 reults text
   - 2017 results image
-  <!-- - ![no-filters-image](<filepath><image-name>.png) -->
+  - placeholder-image](resources/resources-image-placeholder.png)
 
 - 2018 results
   - 2018 reults text
