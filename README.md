@@ -26,6 +26,7 @@ The execution time results below highlight the superior execution time achieved 
 Original script execution times:
 
 - 2017 Analysis: the code ran in .296875 seconds (75% test)
+
 ![2017-original-runtime](resources/module-2017-runtime-.75_size.png)
 
 - 2018 Analysis: the code ran in .2841797 seconds
@@ -35,9 +36,11 @@ Original script execution times:
 Refactored script execution times:
 
 - 2017 Analysis: the code ran in .xxxxxx seconds
+
 ![2017-refactored-runtime](resources/resources-image-placeholder1.png)
 
 - 2018 Analysis: the code ran in .xxxxxx seconds
+
 ![2018-refactored-runtime](resources/resources-image-placeholder1.png)
 
 ## Summary: In a summary statement, address the following questions
