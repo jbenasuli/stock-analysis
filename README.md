@@ -9,7 +9,7 @@
 - 2017 reusults
   - 2017 reults text
   - 2017 results image
-  - [placeholder-image](resources/resources-image-placeholder.png)
+![placeholder-image](resources/resources-image-placeholder.png)
 
 - 2018 results
   - 2018 reults text
@@ -18,6 +18,12 @@
 - results summation
 
 ### Exection Times
+
+- Original script execution time: results here, screenshot below
+![original-exexcution-time-image](resources/resources-image-placeholder.png)
+
+- Refactored script execution time: results here, screenshot below
+![refactored-exexcution-time-image](resources/resources-image-placeholder.png)
 
 ## Summary: In a summary statement, address the following questions
 
