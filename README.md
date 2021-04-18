@@ -30,7 +30,7 @@ Original script execution times:
 
 - 2018 Analysis: the code ran in .2841797 seconds
 
-[2018-original-runtime](resources/module-2018-runtime-.75_size.png)
+![2018-original-runtime](resources/module-2018-runtime-.75_size.png)
 
 Refactored script execution times:
 
