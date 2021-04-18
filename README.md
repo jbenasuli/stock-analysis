@@ -35,6 +35,7 @@ Refactored script execution times:
 - 2017 Analysis: the code ran in .xxxxxx seconds
 ![2017-refactored-runtime](resources/resources-image-placeholder1.png)
 - 2018 Analysis: the code ran in .xxxxxx seconds
+
 ![2018-refactored-runtime](resources/resources-image-placeholder1.png)
 
 ## Summary: In a summary statement, address the following questions
