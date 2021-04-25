@@ -25,23 +25,23 @@ The execution time results below highlight the superior execution time achieved 
 
 Original script execution times:
 
-- 2017 Analysis: the code ran in .296875 seconds (75% test)
+- 2017 Analysis: the original code ran in .296875 seconds
 
 ![2017-original-runtime](resources/module-2017-runtime-.75_size.png)
 
-- 2018 Analysis: the code ran in .2841797 seconds
+- 2018 Analysis: the original code ran in .2841797 seconds
 
 ![2018-original-runtime](resources/module-2018-runtime-.75_size.png)
 
 Refactored script execution times:
 
-- 2017 Analysis: the code ran in .xxxxxx seconds
+- 2017 Analysis: the refactored code ran in .078125 seconds
 
-![2017-refactored-runtime](resources/resources-image-placeholder1.png)
+![2017-refactored-runtime](resources/VBA_Challenge_2017.png)
 
-- 2018 Analysis: the code ran in .xxxxxx seconds
+- 2018 Analysis: the code ran in .0703125 seconds
 
-![2018-refactored-runtime](resources/resources-image-placeholder1.png)
+![2018-refactored-runtime](resources/VBA_Challenge_2018.png)
 
 ## Summary: In a summary statement, address the following questions
 
@@ -52,3 +52,9 @@ What are the advantages or disadvantages of refactoring code?
 How do these pros and cons apply to refactoring the original VBA script?
 
 - There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+
+### Advantages
+
+The primary advantage to refactoring the original VBA script is the reduction in execution time. As detailed above, the time needed for script to run for each year is drastically lower. For 2017 the execution time was reduced by 73.7%, and for 2018 the execution time was reduced by 75.3%.
+
+- Disadvantages:
