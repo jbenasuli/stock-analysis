@@ -39,7 +39,7 @@ Refactored script execution times:
 
 ![2017-refactored-runtime](resources/VBA_Challenge_2017.png)
 
-- 2018 Analysis: the code ran in .0703125 seconds
+- 2018 Analysis: the refactored code ran in .0703125 seconds
 
 ![2018-refactored-runtime](resources/VBA_Challenge_2018.png)
 
