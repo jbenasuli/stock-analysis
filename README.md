@@ -1,26 +1,28 @@
 # stock-analysis
 
-## Overview of Project: Explain the purpose of this analysis
+## Overview of Project
 
-## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script
+The purpose of this project was to create a VBA script to parse annual stock market data for a given set of tickers. When run, the script prompts the user to input a year and then generates a table which contains the ticker, total daily volume, and annual return for each stock represented in the dataset.
+
+Having successfully created a VBA script, which performs as detailed above, further work was done to refactor the original script. The purpose of refactoring the working script was to improve performance in anticipation of the script being used to analyze a far greater set of stocks in the future.
+
+## Results
 
 ### Stock Performance
 
-2017 reusults
+2017 results
 
-- 2017 reults text
+- 2017 was overall a very good year. Every stock, with the exception of TERP (-7.2%), saw their share prices increase. DQ and SEDG performed particularly well posting gains of 199.4% and 184.5% respectively.
 
 ![2017-results](resources/2017-results.png)
 
 2018 results
 
-- 2018 reults text
+- 2018 by comparison was an overall poor year for this basket of stocks. With the exception of ENPH (+81.9) and RUN (+84.0%), all the stocks posted negative annual returns. It was a particularly bad year for DQ and JKS, which had annual returns of -62.6% and -60.5% respectively.
 
 ![2018-results](resources/2018-results.png)
 
-results summation
-
-### Exection Times
+### Execution Times
 
 The execution time results below highlight the superior execution time achieved by refactoring the AllStockAnalysis code.
 
