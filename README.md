@@ -9,13 +9,14 @@
 2017 reusults
 
 - 2017 reults text
-- 2017 results image
-![placeholder-image](resources/resources-image-placeholder1.png)
+
+![2017-results](resources/2017-results.png)
 
 2018 results
 
 - 2018 reults text
-- 2018 results image
+
+![2018-results](resources/2018-results.png)
 
 results summation
 
