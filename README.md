@@ -46,18 +46,20 @@ Refactored script execution times:
 
 ![2018-refactored-runtime](resources/VBA_Challenge_2018.png)
 
-## Summary: In a summary statement, address the following questions
+## Summary
 
-What are the advantages or disadvantages of refactoring code?
+The general advantage to refactoring code is increased efficiencies. Key benefits of refactored code are listed below:
 
-- There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+- Using less memory and decreased execution times
+- Simplifying and improving existing code helps ensure future work is streamlined
+- Increased readability allowing for other stakeholders to better understand/work with the script
 
-How do these pros and cons apply to refactoring the original VBA script?
-
-- There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+Despite the numerous potential gains from refactoring code, it is important to weigh the cost of resources that will be required to increase the efficiency of code, which already works, without adding any additional functionality to it.
 
 ### Advantages
 
-The primary advantage to refactoring the original VBA script is the reduction in execution time. As detailed above, the time needed for script to run for each year is drastically lower. For 2017 the execution time was reduced by 73.7%, and for 2018 the execution time was reduced by 75.3%.
+The primary advantage to refactoring the original VBA script is the reduction in execution time. As detailed above, the time needed for the script to run for each year is drastically lower. For 2017 the execution time was reduced by 73.7%, and for 2018 the execution time was reduced by 75.3%. Such a reduction in execution time is an encouraging sign that this code could handle a much larger dataset.
 
-- Disadvantages:
+### Disadvantages
+
+Despite the efficiency gains noted above, one could argue that this refactoring has not been a worthwhile use of resources. The sample dataset is quite small, and the percentage decreases in execution time may not prove to be as significant with larger datasets. Furthermore, there are significant functionality improvements that should have been considered prior to refactoring. One example of this is that the script must have a hardcoded list of all tickers to be analyzed. As such, manual adjustments must be made to the script each time new stocks are listed, existing stocks are delisted, or the desired basket of stocks to analyze is changed by the user.
